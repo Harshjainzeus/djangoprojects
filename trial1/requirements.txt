@@ -1,0 +1,5 @@
+psycopg2
+psycopg2-binary
+sudo apt-get install libpq-dev # this is required as psycopg2 uses pg_config
+sudo apt-get install python-dev
+sudo apt-get install python-pip
